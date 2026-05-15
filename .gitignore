@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints and outputs
+checkpoints/
+*.pth
+*.pkl
+local_model/
+
+# Training artifacts
+training_log.txt
+loss_data.csv
+loss_accuracy_curves.png
+mae_reconstruction.png
+
+# Data
+256_ObjectCategories/
+datasets/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+*.log
