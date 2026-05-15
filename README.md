@@ -118,10 +118,11 @@ Each notebook has a `config` dictionary at the bottom of the main code cell wher
 
 | Model | Test Accuracy | Test Macro F1 |
 |-------|--------------|---------------|
-| ViT-B (fine-tuned) | 93.71% | — |
 | ViT-M-CNN Hybrid | 91.83% | — |
-| ViT-L (fine-tuned) | 94.51% | — |
-| Ensemble (Weighted Soft Voting) | **96.73%** | **96.83%** |
+| ViT-B (fine-tuned) | 92.68% | — |
+| ViT-L (fine-tuned) | 94.29% | — |
+| ViT-L (Greedy Soup) | 94.47% | — |
+| Ensemble (Equal Soft Voting) | **96.76%** | **96.83%** |
 
 ## License
 
