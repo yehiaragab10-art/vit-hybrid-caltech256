@@ -2,6 +2,9 @@
 
 A comparative study of Vision Transformer (ViT) hybrid architectures, ensemble methods, and self-supervised pretraining for image classification on the Caltech-256 dataset (257 classes).
 
+## Project Poster
+![Poster Diagram](DL_Poster.pdf)
+
 ## Project Structure
 
 ```
